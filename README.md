@@ -1,5 +1,12 @@
 # ccwc.py
 
+![Build Status](https://img.shields.io/travis/reuben-haug/ccwc/main)
+![Coverage](https://img.shields.io/codecov/c/github/reuben-haug/ccwc)
+![License](https://img.shields.io/github/license/reuben-haug/ccwc)
+![Python](https://img.shields.io/badge/python-v3.6+-blue.svg)
+![Last Commit](https://img.shields.io/github/last-commit/USER/REPO)
+
+
 This is a Python script that mimics the functionality of the `wc` command in Unix/Linux. It reads the contents of a text file or standard input and counts the number of lines, words, and characters. It can also count the number of bytes in the file.
 
 ## Usage
