@@ -1,6 +1,5 @@
 # ccwc.py
 
-![Build Status](https://img.shields.io/travis/reuben-haug/wc_clone/main)
 ![Coverage](https://img.shields.io/codecov/c/github/reuben-haug/wc_clone)
 ![License](https://img.shields.io/github/license/reuben-haug/wc_clone)
 ![Python](https://img.shields.io/badge/python-v3.6+-blue.svg)
